@@ -1,1 +1,0 @@
-# Insects-detection-and-identification
