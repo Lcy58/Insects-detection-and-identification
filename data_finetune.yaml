@@ -1,0 +1,20 @@
+train:
+  - /u01/wlj/dataset/train/images
+  - /u01/wlj/focus.txt      
+val:  /u01/wlj/dataset/valid/images
+test: /u01/wlj/dataset/test/images
+
+nc: 12
+names:
+  - Ants
+  - Bees
+  - Beetles
+  - Caterpillars
+  - Earthworms
+  - Earwigs
+  - Grasshoppers
+  - Moths
+  - Slugs
+  - Snails
+  - Wasps
+  - Weevils
